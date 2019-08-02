@@ -1,1 +1,9 @@
+***problem of upload: the size of source file is exceed 25 M.
 
+*** the way to download the source file and their reference
+  #1. The website of source file description:
+      https://data.mendeley.com/datasets/9rw3vkcfy4/6
+  #2. The file name "WebOfScience.zip"
+      DOI: http://dx.doi.org/10.17632/9rw3vkcfy4.6#file-e5b0feaf-a8b1-4833-9281-bc2f132b0ac1
+  #3. The path of the corpus that we used in this experiment
+      WebOfScience/Meta-data/Data.xlsx
